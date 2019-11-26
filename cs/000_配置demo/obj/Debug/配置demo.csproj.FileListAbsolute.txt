@@ -1,0 +1,16 @@
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\Demo.exe.config
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\Demo.exe
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\Demo.pdb
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\MercuryAPI.dll
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\System.Net.Http.dll
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\System.Net.Http.xml
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\配置demo.csprojAssemblyReference.cache
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\Demo.mainForm.resources
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\ScanDemo.Form1.resources
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\Demo.Properties.Resources.resources
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\配置demo.csproj.GenerateResource.cache
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\配置demo.csproj.CoreCompileInputs.cache
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\配置demo.csproj.CopyComplete
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\Demo.exe
+G:\home\chris\old-files\MyVSProject\新晶路\配置demo\obj\Debug\Demo.pdb
